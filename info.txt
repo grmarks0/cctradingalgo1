@@ -1,0 +1,11 @@
+{
+    "Name": "My First Trading Mod",
+    "ID": "trading1",
+    "Author": "Drumfill17",
+    "Description": "My first attempt at solving the Cookie Clicker Stock Exchange! Calculates an expected value and purchases/liquidates assets accordingly (highest risk assumed). Also includes NAV in the bank header!",
+    "ModVersion": 1,
+    "GameVersion": 2.04,
+    "Date": "15/05/2024",
+    "Disabled": 1,
+    "AllowSteamAchievs": 1    
+}
